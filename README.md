@@ -5,7 +5,10 @@ Overview:
     So we are going to use the ERD we created as a reference and our knowledge of SQL queries, create a Retirement Titles table, most recent titles for the current           employees who were born between January 1, 1952 and December 31, 1955. 
  
 Results:
-    So after we create a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. We found some           employees may have multiple titles in the database, to figure that we need to use the DISTINCT ON statement to create a table that contains the most recent title of     each employee. 
+    So after we create a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. We found some           employees may have multiple titles in the database, we are going to use the following screenshots for more details.  
+    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.png)
+    To figure that we need to use the DISTINCT ON statement to create a table that contains the most recent title of each employee.  
+    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.png)
     Then, we are going to use the COUNT() function to create a table that has the number of retirement-age employees by most recent job title. Finally, because we want       to include only current employees in our analysis, be sure to exclude those employees who have already left the company, in the following screenshots:
-    ![](https://github.com/sedigh-etoumi/PyBer_Analysis/blob/main/pyber_summary_df.png)
+    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.png)
     
