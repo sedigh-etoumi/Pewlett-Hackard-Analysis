@@ -13,5 +13,5 @@ Results:
     ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
     
     for deliverable 2, after we write a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program,     we found about 1549 employees eligible for this program, the following screenshot for more datails about the elegibility program. 
-    ![](https://github.com/sedigh-etoumi/PyBer_Analysis/blob/main/pyber_summary_df.png)
+    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.png)
     
