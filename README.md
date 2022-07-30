@@ -11,7 +11,7 @@ Results:
     ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.png)
     Then, we are going to use the COUNT() function to create a table that has the number of retirement-age employees by most recent job title. Finally, because we want       to include only current employees in our analysis, so we excluded those employees who have already left the company, for more datails in the following screenshot:
     ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
-    
-    for deliverable 2, after we write a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program,     we found about 1549 employees eligible for this program, the following screenshot for more datails about the elegibility program. 
-    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.png)
+        for deliverable 2, after we write a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program,     we found about 1549 employees eligible for this program, the following screenshot for more datails about the elegibility program.
+   
+   ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.png)
     
