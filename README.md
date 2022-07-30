@@ -8,7 +8,7 @@ Results:
     So after we create a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. We found some           employees may have multiple titles in the database, we are going to use the following screenshots for more details.  
     ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.png)
     To figure that we need to use the DISTINCT ON statement to create a table that contains the most recent title of each employee.  
-    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.png)
+    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.png)
     Then, we are going to use the COUNT() function to create a table that has the number of retirement-age employees by most recent job title. Finally, because we want       to include only current employees in our analysis, be sure to exclude those employees who have already left the company, in the following screenshots:
-    ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.png)
+    ![]()
     
